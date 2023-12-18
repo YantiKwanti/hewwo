@@ -1,0 +1,5 @@
+git clone https://github.com/YantiKwanti/hewwo.git
+cd hello-world
+git add hello_world.py
+git commit -m "Add Hello, World! program"
+git push origin master
